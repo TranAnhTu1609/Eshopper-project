@@ -1,0 +1,11 @@
+.select2-selection__choice__display {
+    background-color: #446fe8;
+}
+.image_detail_product,.feature_image {
+    width: 100%;
+    hight:200px;
+    object-fit: cover;
+}
+.container_image_detail,.feature_image_container {
+    margin-top: 20px;
+}
